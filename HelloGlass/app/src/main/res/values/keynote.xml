@@ -1,0 +1,15 @@
+<resources>
+  <integer name="nslides">4</integer>
+  <string-array name="texts">
+    <item>- came across _ relic Google Glass hardware\n- put together code :: device as tp; demo\n\nbluetooth presentation remote\n</item>
+    <item>- repeatedly tapping your ear - awkward\n- navigate ... (wait)\n- like thus\n</item>
+    <item>additionally, thanks to Heads-Up Display,\n</item>
+    <item>int- full-stack dev xp.\nproj: complete, reusing: easy\nwhile usability: questionable, cool\n</item>
+  </string-array>
+  <string-array name="hotwords">
+    <item>no trigger word</item>
+    <item>using voice recognition</item>
+    <item>teleprompter and timer</item>
+    <item>no trigger word</item>
+  </string-array>
+</resources>

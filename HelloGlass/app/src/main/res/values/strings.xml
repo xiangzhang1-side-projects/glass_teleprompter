@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloGlass</string>
+    <string name="title_MainActivity">Title of MainActivity</string>
+    <string name="sample_text">Hello Glass!</string>
+</resources>
